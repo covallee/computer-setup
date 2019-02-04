@@ -1,6 +1,6 @@
 # Computer setup
 
-
+```sh
 ##############################
 #        Install Brew        #
 ##############################
@@ -13,3 +13,4 @@ brew tap caskroom/cask
 brew install git
 brew install youtube-dl
 brew cask install soundflower
+```
